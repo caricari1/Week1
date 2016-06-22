@@ -1,0 +1,19 @@
+body {
+  font-style: Arial;
+}
+div {
+  width: 500px;
+  align: center;
+}
+
+#Maintext {
+  background-color: blue;
+}
+
+#DealBreakers {
+  background-color: orange;
+}
+
+#NamePic {
+  background-color: white;
+}
